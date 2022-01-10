@@ -18,8 +18,27 @@
             }
         ]
     },
+    "author": {
+        "name": "Mohit Kumar Singh"
+    },
     "repository": {
         "type": "git",
-        "url": ""
-    }
+        "url": "https://github.com/mohit-kumar-singh55/xKito-Theme"
+    },
+    "icon": "images/x.png",
+    "homepage": "https://github.com/mohit-kumar-singh55/xKito-Theme",
+    "bugs": {
+        "url": "https://github.com/mohit-kumar-singh55/xKito-Theme/issues"
+    },
+    "keywords": [
+        "x",
+        "X",
+        "xkito",
+        "xkito theme",
+        "xKito",
+        "Xkito theme",
+        "theme",
+        "dark",
+        "dark theme"
+    ]
 }
