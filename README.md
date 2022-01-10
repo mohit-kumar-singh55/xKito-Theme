@@ -13,7 +13,7 @@ https://themes.vscode.one/theme/SniperMKS/xBjaMFXh
 
 - [@mohit-kumar-singh55](https://www.github.com/mohit-kumar-singh55)
 
-- <a href="#"><img width="100%" height="auto" src="images/xkito.jpeg"/></a>
+- <a href="https://themes.vscode.one/theme/SniperMKS/xBjaMFXh"><img width="100%" height="auto" src="images/xkito.jpeg"/></a>
 
 
 # Installation
