@@ -3,6 +3,7 @@
     "displayName": "xKito Theme",
     "description": "Dark theme for VS Code",
     "version": "0.0.1",
+    "publisher": "mohit-kumar-singh",
     "engines": {
         "vscode": "^1.63.0"
     },
